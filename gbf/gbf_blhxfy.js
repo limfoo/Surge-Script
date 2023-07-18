@@ -6,7 +6,7 @@ const toInsert = `
 <script>
 (function () {
   const script = document.createElement("script");
-  script.src = "https://blhx.danmu9.com/blhxfy/extension.user.js";
+  script.src = "https://cdn.jsdelivr.net/gh/biuuu/BLHXFY@gh-pages/blhxfy/extension.ios.user.js";
   document.head.appendChild(script);
 })();
 </script>
